@@ -7,8 +7,8 @@
     "mieter": "multi-tenant",
     "singletenant": false,
     "baurecht": {
-    "baugenehmigung": "berlin_kerndoku/baugenehmigung.pdf",
-    "brandschutzkonzept": "berlin_kerndoku/brandschutzkonzept.pdf",
+    "baugenehmigung": "1374/baugenehmigung.pdf",
+    "brandschutzkonzept": "1374/brandschutzkonzept.pdf",
     },
     "prüfsv": {
       "brandmeldeanlageanlage": {
