@@ -7,8 +7,8 @@
     "mieter": "Hostmir Logistik",
     "singletenant": true,
     "baurecht": {
-    "baugenehmigung": "7732/baugenehmigung.pdf",
-    "brandschutzkonzept": "7732/brandschutzkonzept.pdf",
+      "baugenehmigung": "7732/baugenehmigung.pdf",
+      "brandschutzkonzept": "7732/brandschutzkonzept.pdf"
     },
     "prüfsv": {
       "brandmeldeanlageanlage": {
@@ -16,17 +16,18 @@
         "0prüfungsbericht": "7732/0_sv_bma.pdf",
         "1prüfung": "2022-10-24",
         "1prüfungsbericht": "7732/1_sv_bma.pdf",
-        "nächsteprüfung": "2025-10-24",
+        "nächsteprüfung": "2025-10-24"
       },
       "Rauchabzugsanlage": {
         "0prüfung": "2019-11-02",
         "0prüfungsbericht": "7732/0_sv_rva.pdf",
         "1prüfung": "2022-11-02",
         "1prüfungsbericht": "7732/1_sv_rva.pdf",
-        "nächsteprüfung": "2025-11-02",
+        "nächsteprüfung": "2025-11-02"
       }
     }
   }
 }
+
 
 
