@@ -8,7 +8,7 @@
     "singletenant": false,
     "baurecht": {
     "baugenehmigung": "1374/baugenehmigung.pdf",
-    "brandschutzkonzept": "1374/brandschutzkonzept.pdf",
+    "brandschutzkonzept": "1374/brandschutzkonzept.pdf"
     },
     "prüfsv": {
       "brandmeldeanlageanlage": {
@@ -16,65 +16,16 @@
         "0prüfungsbericht": "1374/0_sv_bma.pdf",
         "1prüfung": "2022-05-27",
         "1prüfungsbericht": "1374/1_sv_bma.pdf",
-        "nächsteprüfung": "2025-05-27",
+        "nächsteprüfung": "2025-05-27"
       },
       "Rauchabzugsanlage": {
         "0prüfung": "2019-05-19",
         "0prüfungsbericht": "1374/0_sv_rva.pdf",
         "1prüfung": "2022-05-20",
         "1prüfungsbericht": "1374/1_sv_rva.pdf",
-        "nächsteprüfung": "2025-05-20",
+        "nächsteprüfung": "2025-05-20"
       }
     }
   }
 }
 
-
-
-
-{
-  "user": {
-    "id": 12345,
-    "name": "John Doe",
-    "email": "john.doe@example.com",
-    "profile": {
-      "age": 30,
-      "gender": "male",
-      "location": {
-        "city": "New York",
-        "state": "NY",
-        "country": "USA"
-      },
-      "preferences": {
-        "newsletter": true,
-        "notifications": {
-          "email": true,
-          "sms": false
-        }
-      }
-    },
-    "posts": [
-      {
-        "id": 1,
-        "title": "My First Post",
-        "content": "This is the content of my first post.",
-        "comments": [
-          {
-            "user": "JaneSmith",
-            "comment": "Great post!"
-          },
-          {
-            "user": "TomBrown",
-            "comment": "Thanks for sharing."
-          }
-        ]
-      },
-      {
-        "id": 2,
-        "title": "Another Post",
-        "content": "Here's some more content.",
-        "comments": []
-      }
-    ]
-  }
-}

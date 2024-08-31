@@ -8,7 +8,7 @@
     "singletenant": true,
     "baurecht": {
     "baugenehmigung": "1368/baugenehmigung.pdf",
-    "brandschutzkonzept": "1368/brandschutzkonzept.pdf",
+    "brandschutzkonzept": "1368/brandschutzkonzept.pdf"
     },
     "prüfsv": {
       "brandmeldeanlageanlage": {
@@ -16,14 +16,14 @@
         "0prüfungsbericht": "1368/0_sv_bma.pdf",
         "1prüfung": "2023-11-14",
         "1prüfungsbericht": "1368/1_sv_bma.pdf",
-        "nächsteprüfung": "2026-11-14",
+        "nächsteprüfung": "2026-11-14"
       },
       "Rauchabzugsanlage": {
         "0prüfung": "2021-02-04",
         "0prüfungsbericht": "1368/0_sv_rva.pdf",
         "1prüfung": "2024-02-02",
         "1prüfungsbericht": "1368/1_sv_rva.pdf",
-        "nächsteprüfung": "2027-02-02",
+        "nächsteprüfung": "2027-02-02"
       }
     }
   }
