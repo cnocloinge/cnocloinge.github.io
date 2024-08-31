@@ -1,0 +1,80 @@
+{
+  "objekt": {
+    "id": "7732",
+    "straße": "Isariusstr. 102",
+    "stadt": "München",
+    "plz": "80489",
+    "mieter": "Hostmir Logistik",
+    "singletenant": true,
+    "baurecht": {
+    "baugenehmigung": "7732/baugenehmigung.pdf",
+    "brandschutzkonzept": "7732/brandschutzkonzept.pdf",
+    },
+    "prüfsv": {
+      "brandmeldeanlageanlage": {
+        "0prüfung": "2019-10-25",
+        "0prüfungsbericht": "7732/0_sv_bma.pdf",
+        "1prüfung": "2022-10-24",
+        "1prüfungsbericht": "7732/1_sv_bma.pdf",
+        "nächsteprüfung": "2025-10-24",
+      },
+      "Rauchabzugsanlage": {
+        "0prüfung": "2019-11-02",
+        "0prüfungsbericht": "7732/0_sv_rva.pdf",
+        "1prüfung": "2022-11-02",
+        "1prüfungsbericht": "7732/1_sv_rva.pdf",
+        "nächsteprüfung": "2025-11-02",
+      }
+    }
+  }
+}
+
+
+
+
+{
+  "user": {
+    "id": 12345,
+    "name": "John Doe",
+    "email": "john.doe@example.com",
+    "profile": {
+      "age": 30,
+      "gender": "male",
+      "location": {
+        "city": "New York",
+        "state": "NY",
+        "country": "USA"
+      },
+      "preferences": {
+        "newsletter": true,
+        "notifications": {
+          "email": true,
+          "sms": false
+        }
+      }
+    },
+    "posts": [
+      {
+        "id": 1,
+        "title": "My First Post",
+        "content": "This is the content of my first post.",
+        "comments": [
+          {
+            "user": "JaneSmith",
+            "comment": "Great post!"
+          },
+          {
+            "user": "TomBrown",
+            "comment": "Thanks for sharing."
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "title": "Another Post",
+        "content": "Here's some more content.",
+        "comments": []
+      }
+    ]
+  }
+}
