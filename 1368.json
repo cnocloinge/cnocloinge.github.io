@@ -1,0 +1,80 @@
+{
+  "objekt": {
+    "id": "1368",
+    "straße": "Quittenstr. 39",
+    "stadt": "Berlin",
+    "plz": "10453",
+    "mieter": "Rothar Logistik",
+    "singletenant": true,
+    "baurecht": {
+    "baugenehmigung": "1368/baugenehmigung.pdf",
+    "brandschutzkonzept": "1368/brandschutzkonzept.pdf",
+    },
+    "prüfsv": {
+      "brandmeldeanlageanlage": {
+        "0prüfung": "2020-11-15",
+        "0prüfungsbericht": "1368/0_sv_bma.pdf",
+        "1prüfung": "2023-11-14",
+        "1prüfungsbericht": "1368/1_sv_bma.pdf",
+        "nächsteprüfung": "2026-11-14",
+      },
+      "Rauchabzugsanlage": {
+        "0prüfung": "2021-02-04",
+        "0prüfungsbericht": "1368/0_sv_rva.pdf",
+        "1prüfung": "2024-02-02",
+        "1prüfungsbericht": "1368/1_sv_rva.pdf",
+        "nächsteprüfung": "2027-02-02",
+      }
+    }
+  }
+}
+
+
+
+
+{
+  "user": {
+    "id": 12345,
+    "name": "John Doe",
+    "email": "john.doe@example.com",
+    "profile": {
+      "age": 30,
+      "gender": "male",
+      "location": {
+        "city": "New York",
+        "state": "NY",
+        "country": "USA"
+      },
+      "preferences": {
+        "newsletter": true,
+        "notifications": {
+          "email": true,
+          "sms": false
+        }
+      }
+    },
+    "posts": [
+      {
+        "id": 1,
+        "title": "My First Post",
+        "content": "This is the content of my first post.",
+        "comments": [
+          {
+            "user": "JaneSmith",
+            "comment": "Great post!"
+          },
+          {
+            "user": "TomBrown",
+            "comment": "Thanks for sharing."
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "title": "Another Post",
+        "content": "Here's some more content.",
+        "comments": []
+      }
+    ]
+  }
+}
