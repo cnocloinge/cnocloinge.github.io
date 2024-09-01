@@ -11,14 +11,14 @@
     "brandschutzkonzept": "1374/brandschutzkonzept.pdf"
     },
     "prüfsv": {
-      "brandmeldeanlageanlage": {
+      "brandmeldeanlage": {
         "0prüfung": "2019-05-29",
         "0prüfungsbericht": "1374/0_sv_bma.pdf",
         "1prüfung": "2022-05-27",
         "1prüfungsbericht": "1374/1_sv_bma.pdf",
         "nächsteprüfung": "2025-05-27"
       },
-      "Rauchabzugsanlage": {
+      "rauchabzugsanlage": {
         "0prüfung": "2019-05-19",
         "0prüfungsbericht": "1374/0_sv_rva.pdf",
         "1prüfung": "2022-05-20",
