@@ -14,19 +14,19 @@
       "brandmeldeanlage": {
         "anlage": "brandmeldeanlage",
         "kürzel": "bma",
-        "0prüfung": "2019-10-25",
-        "0prüfungsbericht": "7732/0_sv_bma.pdf",
-        "1prüfung": "2022-10-24",
-        "1prüfungsbericht": "7732/1_sv_bma.pdf",
+        "prüf0": "2019-10-25",
+        "prüf0bericht": "7732/0_sv_bma.pdf",
+        "prüf1": "2022-10-24",
+        "prüf1bericht": "7732/1_sv_bma.pdf",
         "nächsteprüfung": "2025-10-24"
       },
       "rauchabzugsanlage": {
         "anlage": "rauchabzugsanlage",
         "kürzel": "rwa",
-        "0prüfung": "2019-11-02",
-        "0prüfungsbericht": "7732/0_sv_rva.pdf",
-        "1prüfung": "2022-11-02",
-        "1prüfungsbericht": "7732/1_sv_rva.pdf",
+        "prüf0": "2019-11-02",
+        "prüf0bericht": "7732/0_sv_rva.pdf",
+        "prüf1": "2022-11-02",
+        "prüf1bericht": "7732/1_sv_rva.pdf",
         "nächsteprüfung": "2025-11-02"
       }
     }
