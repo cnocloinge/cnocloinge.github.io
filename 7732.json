@@ -13,6 +13,7 @@
     "prüfsv": {
       "brandmeldeanlage": {
         "anlage": "brandmeldeanlage",
+        "kürzel": "bma",
         "0prüfung": "2019-10-25",
         "0prüfungsbericht": "7732/0_sv_bma.pdf",
         "1prüfung": "2022-10-24",
@@ -21,6 +22,7 @@
       },
       "rauchabzugsanlage": {
         "anlage": "rauchabzugsanlage",
+        "kürzel": "rwa",
         "0prüfung": "2019-11-02",
         "0prüfungsbericht": "7732/0_sv_rva.pdf",
         "1prüfung": "2022-11-02",
