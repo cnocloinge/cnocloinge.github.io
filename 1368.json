@@ -12,18 +12,31 @@
     },
     "prüfsv": {
       "brandmeldeanlage": {
-        "0prüfung": "2020-11-15",
-        "0prüfungsbericht": "1368/0_sv_bma.pdf",
-        "1prüfung": "2023-11-14",
-        "1prüfungsbericht": "1368/1_sv_bma.pdf",
+        "anlage": "brandmeldeanlage",
+        "kürzel": "bma",
+        "prüf0": "2020-11-15",
+        "prüf0bericht": "1368/0_sv_bma.pdf",
+        "prüf1": "2023-11-14",
+        "prüf1bericht": "1368/1_sv_bma.pdf",
         "nächsteprüfung": "2026-11-14"
       },
       "rauchabzugsanlage": {
-        "0prüfung": "2021-02-04",
-        "0prüfungsbericht": "1368/0_sv_rva.pdf",
-        "1prüfung": "2024-02-02",
-        "1prüfungsbericht": "1368/1_sv_rva.pdf",
+        "anlage": "rauchabzugsanlage",
+        "kürzel": "rwa",
+        "prüf0": "2021-02-04",
+        "prüf0bericht": "1368/0_sv_rva.pdf",
+        "prüf1": "2024-02-02",
+        "prüf1bericht": "1368/1_sv_rva.pdf",
         "nächsteprüfung": "2027-02-02"
+      },
+      "löschanlage": {
+        "anlage": "löschanlage",
+        "kürzel": "löa",
+        "prüf0": "2021-02-05",
+        "prüf0bericht": "7732/0_sv_löa.pdf",
+        "prüf1": "2024-02-05",
+        "prüf1bericht": "7732/1_sv_löa.pdf",
+        "nächsteprüfung": "2027-02-05"
       }
     }
   }
