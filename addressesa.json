@@ -1,0 +1,17 @@
+{
+  "recipient": {
+    "name": "D. Quax",
+    "company": "Cons AG",
+    "street": "Dahlienstr. 34",
+    "zip": "70445",
+    "city": "Kahlstadt",
+    "country": "Deutschland"
+  },
+  "sender": {
+    "name": "Felix de Graet",
+    "company": "QyLiX AG",
+    "phone": "+123456789",
+    "email": "sender@example.com",
+    "date": "07.09.2024"
+  }
+}
