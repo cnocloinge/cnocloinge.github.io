@@ -43,7 +43,7 @@
                     "prüf3": "null",
                     "prüf3bericht": "null"
                 },
-                "Sicherheitsbeleuchtung": {
+                "sicherheitsbeleuchtung": {
                     "kürzel": "sibe",
                     "prüf0": "08.02.2021",
                     "prüf0bericht": "7732/0_sv_sibe.pdf",
@@ -54,7 +54,7 @@
                     "prüf3": "null",
                     "prüf3bericht": "null"
                 },
-                "Lüftungsanlage": {
+                "lüftungsanlage": {
                     "kürzel": "rlt",
                     "prüf0": "18.02.2021",
                     "prüf0bericht": "7732/0_sv_rlt.pdf",
