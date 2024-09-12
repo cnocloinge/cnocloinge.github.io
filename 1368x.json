@@ -1,0 +1,71 @@
+{
+    "objekt": {
+        "id": "1368",
+        "straße": "Quittenstr. 39",
+        "stadt": "Berlin",
+        "plz": "10453",
+        "mieter": "Rothar Logistik",
+        "singletenant": "TRUE",
+        "baurecht": {
+            "baugenehmigung": "1368/baugenehmigung.pdf",
+            "brandschutzkonzept": "1368/brandschutzkonzept.pdf",
+            "sv_anlagen": {
+                "brandmeldeanlage": {
+                    "kürzel": "bma",
+                    "prüf0": "15.11.2020",
+                    "prüf0bericht": "1368/0_sv_bma.pdf",
+                    "prüf1": "15.11.2023",
+                    "prüf1bericht": "1368/1_sv_bma.pdf",
+                    "prüf2": "15.11.2026",
+                    "prüf2bericht": "null",
+                    "prüf3": "null",
+                    "prüf3bericht": "null"
+                },
+                "rauchabzugsanlage": {
+                    "kürzel": "rwa",
+                    "prüf0": "04.02.2021",
+                    "prüf0bericht": "1368/0_sv_rwa.pdf",
+                    "prüf1": "04.02.2024",
+                    "prüf1bericht": "1368/1_sv_rwa.pdf",
+                    "prüf2": "04.02.2027",
+                    "prüf2bericht": "null",
+                    "prüf3": "null",
+                    "prüf3bericht": "null"
+                },
+                "löschanlage": {
+                    "kürzel": "löa",
+                    "prüf0": "05.02.2021",
+                    "prüf0bericht": "7732/0_sv_löa.pdf",
+                    "prüf1": "05.02.2024",
+                    "prüf1bericht": "7732/1_sv_löa.pdf",
+                    "prüf2": "05.02.2027",
+                    "prüf2bericht": "null",
+                    "prüf3": "null",
+                    "prüf3bericht": "null"
+                },
+                "Sicherheitsbeleuchtung": {
+                    "kürzel": "sibe",
+                    "prüf0": "08.02.2021",
+                    "prüf0bericht": "7732/0_sv_sibe.pdf",
+                    "prüf1": "08.02.2024",
+                    "prüf1bericht": "7732/1_sv_sibe.pdf",
+                    "prüf2": "08.02.2027",
+                    "prüf2bericht": "null",
+                    "prüf3": "null",
+                    "prüf3bericht": "null"
+                },
+                "Lüftungsanlage": {
+                    "kürzel": "rlt",
+                    "prüf0": "18.02.2021",
+                    "prüf0bericht": "7732/0_sv_rlt.pdf",
+                    "prüf1": "18.02.2024",
+                    "prüf1bericht": "7732/1_sv_rlt.pdf",
+                    "prüf2": "18.02.2027",
+                    "prüf2bericht": "null",
+                    "prüf3": "null",
+                    "prüf3bericht": "null"
+                }
+            }
+        }
+    }
+}
