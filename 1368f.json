@@ -1,0 +1,293 @@
+{
+    "objekt": {
+        "id": "1368",
+        "straße": "Quittenstr. 39",
+        "stadt": "Berlin",
+        "plz": "10453",
+        "mieter": {
+            "singletenant": "true",
+            "firmenname": "Rothar Logistik AG",
+            "straße": "Umparstr. 42",
+            "stadt": "Stuttgart",
+            "plz": "70771",
+            "poc": "Kai Wieke",
+            "poc_tel": "0173 23945876",
+            "poc_email": "kwieke@rothar.de",
+            "kreditorennummer": "120045"
+        },
+        "FM": {
+            "firmenname": "logifm AG",
+            "straße": "Ubburrstr. 33",
+            "stadt": "Stuttgart",
+            "plz": "70332",
+            "poc": "Oskar Weng",
+            "poc_tel": "0186 95892345",
+            "poc_email": "oweng@logifm.de",
+            "kreditorennummer": "120134"
+        },
+        "baurecht": {
+            "baugenehmigung": "1368/baugenehmigung.pdf",
+            "brandschutzkonzept": "1368/brandschutzkonzept.pdf",
+            "schallschutznachweis": "null",
+            "wärmeschutznachweis": "null",
+            "verkehrsgutachten": "null",
+            "umweltgutachten": "null",
+            "bodenuntersuchung": "null",
+            "kampfmittelbeseitigung": "null",
+            "stellplatznachweis": "null",
+            "prüfer": {
+                "brandmeldeanlage": {
+                    "firmenname": "teprü gmbh",
+                    "straße": "orburrstr. 91",
+                    "stadt": "Stuttgart",
+                    "plz": "70366",
+                    "poc": "Oskar Weitz",
+                    "poc_tel": "0186 95892399",
+                    "poc_email": "oweitz@teprü.de",
+                    "kreditorennummer": "120188"
+                },
+                "rauchabzugsanlage": {
+                    "firmenname": "teprü gmbh",
+                    "straße": "orburrstr. 91",
+                    "stadt": "Stuttgart",
+                    "plz": "70366",
+                    "poc": "Oskar Weitz",
+                    "poc_tel": "0186 95892399",
+                    "poc_email": "oweitz@teprü.de",
+                    "kreditorennummer": "120188"
+                },
+                "sicherheitsbeleuchtung": {
+                    "firmenname": "teprü gmbh",
+                    "straße": "orburrstr. 91",
+                    "stadt": "Stuttgart",
+                    "plz": "70366",
+                    "poc": "Elke Klein",
+                    "poc_tel": "0186 9589435",
+                    "poc_email": "eklein@teprü.de",
+                    "kreditorennummer": "120188"
+                }
+            },
+            "sv_anlagen": {
+                "brandmeldeanlage": {
+                    "vorhanden": "true",
+                    "kürzel": "bma",
+                    "sv_prüfmängel": "1368/sv_bma_prüfmängel/",
+                    "prüf0": "44150",
+                    "prüf0bericht": "1368/0_sv_bma.pdf",
+                    "prüf1": "45245",
+                    "prüf1bericht": "1368/1_sv_bma.pdf",
+                    "prüf2": "46341",
+                    "prüf2bericht": "null",
+                    "prüf3": "null",
+                    "prüf3bericht": "null"
+                },
+                "rauchabzugsanlage": {
+                    "vorhanden": "true",
+                    "kürzel": "rwa",
+                    "sv_prüfmängel": "1368/sv_rwa_prüfmängel/",
+                    "prüf0": "44231",
+                    "prüf0bericht": "1368/0_sv_rwa.pdf",
+                    "prüf1": "45326",
+                    "prüf1bericht": "1368/1_sv_rwa.pdf",
+                    "prüf2": "46422",
+                    "prüf2bericht": "null",
+                    "prüf3": "null",
+                    "prüf3bericht": "null"
+                },
+                "selbständige_löschanlage": {
+                    "vorhanden": "true",
+                    "kürzel": "löa",
+                    "sv_prüfmängel": "1368/sv_löa_prüfmängel/",
+                    "prüf0": "44232",
+                    "prüf0bericht": "7732/0_sv_löa.pdf",
+                    "prüf1": "45327",
+                    "prüf1bericht": "7732/1_sv_löa.pdf",
+                    "prüf2": "46423",
+                    "prüf2bericht": "null",
+                    "prüf3": "null",
+                    "prüf3bericht": "null"
+                },
+                "nicht_selbständige_löschanlage": {
+                    "vorhanden": "false",
+                    "kürzel": "nlöa",
+                    "sv_prüfmängel": "1368/sv_nlöa_prüfmängel/",
+                    "prüf0": "null",
+                    "prüf0bericht": "null",
+                    "prüf1": "null",
+                    "prüf1bericht": "null",
+                    "prüf2": "null",
+                    "prüf2bericht": "null",
+                    "prüf3": "null",
+                    "prüf3bericht": "null"
+                },
+                "sicherheitsbeleuchtung": {
+                    "vorhanden": "true",
+                    "kürzel": "sibe",
+                    "sv_prüfmängel": "1368/sv_sibe_prüfmängel/",
+                    "prüf0": "44235",
+                    "prüf0bericht": "7732/0_sv_sibe.pdf",
+                    "prüf1": "45330",
+                    "prüf1bericht": "7732/1_sv_sibe.pdf",
+                    "prüf2": "46426",
+                    "prüf2bericht": "null",
+                    "prüf3": "null",
+                    "prüf3bericht": "null"
+                },
+                "lüftungsanlage": {
+                    "vorhanden": "true",
+                    "kürzel": "rlt",
+                    "sv_prüfmängel": "1368/sv_rlt_prüfmängel/",
+                    "prüf0": "44245",
+                    "prüf0bericht": "7732/0_sv_rlt.pdf",
+                    "prüf1": "45340",
+                    "prüf1bericht": "7732/1_sv_rlt.pdf",
+                    "prüf2": "46436",
+                    "prüf2bericht": "null",
+                    "prüf3": "null",
+                    "prüf3bericht": "null"
+                },
+                "co_warnanlage": {
+                    "vorhanden": "false",
+                    "kürzel": "cow",
+                    "sv_prüfmängel": "1368/sv_cow_prüfmängel/",
+                    "prüf0": "null",
+                    "prüf0bericht": "null",
+                    "prüf1": "null",
+                    "prüf1bericht": "null",
+                    "prüf2": "null",
+                    "prüf2bericht": "null",
+                    "prüf3": "null",
+                    "prüf3bericht": "null"
+                }
+            }
+        },
+        "andere Prüfungen": {
+            "betriebsicherheit": {
+                "bos_anlage": {
+                    "vorhanden": "false",
+                    "kürzel": "bos",
+                    "ap_prüfmängel": "1368/ap_prüfmängel/",
+                    "prüf0": "null",
+                    "prüf0bericht": "null",
+                    "prüf1": "null",
+                    "prüf1bericht": "null",
+                    "prüf2": "null",
+                    "prüf2bericht": "null",
+                    "prüf3": "null",
+                    "prüf3bericht": "null"
+                },
+                "blitzschutzanlage": {
+                    "vorhanden": "true",
+                    "kürzel": "blitz",
+                    "ap_prüfmängel": "1368/ap_prüfmängel/",
+                    "prüf0": "null",
+                    "prüf0bericht": "null",
+                    "prüf1": "null",
+                    "prüf1bericht": "null",
+                    "prüf2": "null",
+                    "prüf2bericht": "null",
+                    "prüf3": "null",
+                    "prüf3bericht": "null"
+                },
+                "aufzugsanlage_hauptprüfung": {
+                    "vorhanden": "false",
+                    "kürzel": "aufz",
+                    "ap_prüfmängel": "1368/ap_prüfmängel/",
+                    "prüf0": "null",
+                    "prüf0bericht": "null",
+                    "hprüf1": "null",
+                    "prüf1bericht": "null",
+                    "prüf2": "null",
+                    "prüf2bericht": "null",
+                    "prüf3": "null",
+                    "prüf3bericht": "null"
+                },
+                "aufzugsanlage_nebenprüfung": {
+                    "vorhanden": "false",
+                    "kürzel": "aufz",
+                    "ap_prüfmängel": "1368/ap_prüfmängel/",
+                    "prüf0": "null",
+                    "prüf0bericht": "null",
+                    "prüf1": "null",
+                    "prüf1bericht": "null",
+                    "prüf2": "null",
+                    "prüf2bericht": "null",
+                    "prüf3": "null",
+                    "prüf3bericht": "null"
+                }
+            },
+            "umwelt": {
+                "awsv": {
+                    "vorhanden": "false",
+                    "kürzel": "avws",
+                    "ap_prüfmängel": "1368/ap_prüfmängel/",
+                    "prüf0": "null",
+                    "prüf0bericht": "null",
+                    "prüf1": "null",
+                    "prüf1bericht": "null",
+                    "prüf2": "null",
+                    "prüf2bericht": "null",
+                    "prüf3": "null",
+                    "prüf3bericht": "null"
+                }
+            },
+            "versicherung": {
+                "elektro_v": {
+                    "vorhanden": "true",
+                    "kürzel": "elektro_v",
+                    "ap_prüfmängel": "1368/ap_prüfmängel/",
+                    "prüf0": "null",
+                    "prüf0bericht": "null",
+                    "prüf1": "null",
+                    "prüf1bericht": "null",
+                    "prüf2": "null",
+                    "prüf2bericht": "null",
+                    "prüf3": "null",
+                    "prüf3bericht": "null"
+                },
+                "löa_v": {
+                    "vorhanden": "true",
+                    "kürzel": "löa_v",
+                    "ap_prüfmängel": "1368/ap_prüfmängel/",
+                    "prüf0": "null",
+                    "prüf0bericht": "null",
+                    "prüf1": "null",
+                    "prüf1bericht": "null",
+                    "prüf2": "null",
+                    "prüf2bericht": "null",
+                    "prüf3": "null",
+                    "prüf3bericht": "null"
+                }
+            },
+            "wirtschaftlich": {
+                "dachwartung": {
+                    "vorhanden": "true",
+                    "kürzel": "dach",
+                    "ap_prüfmängel": "1368/ap_prüfmängel/",
+                    "prüf0": "null",
+                    "prüf0bericht": "null",
+                    "prüf1": "null",
+                    "prüf1bericht": "null",
+                    "prüf2": "null",
+                    "prüf2bericht": "null",
+                    "prüf3": "null",
+                    "prüf3bericht": "null"
+                }
+            },
+            "geg": {
+                "energieausweis": {
+                    "vorhanden": "true",
+                    "kürzel": "geg",
+                    "prüf0": "null",
+                    "prüf0bericht": "null",
+                    "prüf1": "null",
+                    "prüf1bericht": "null",
+                    "prüf2": "null",
+                    "prüf2bericht": "null",
+                    "prüf3": "null",
+                    "prüf3bericht": "null"
+                }
+            }
+        }
+    }
+}
