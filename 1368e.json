@@ -5,7 +5,7 @@
         "stadt": "Berlin",
         "plz": "10453",
         "mieter": {
-            "singletenant": "TRUE",
+            "singletenant": "true",
             "firmenname": "Rothar Logistik AG",
             "straße": "Umparstr. 42",
             "stadt": "Stuttgart",
